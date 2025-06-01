@@ -35,7 +35,7 @@ export default function Navbar() {
         </Link>
 
         {/* Center: Navigation Links (desktop) */}
-        <div className="hidden md:flex gap-10 text-sm font-medium">
+        <div className="hidden md:flex gap-10 text-lg font-medium">
           <Link
             to="/"
             className="hover:text-pink-400 transition"
